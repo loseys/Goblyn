@@ -16,8 +16,6 @@ setup(
     author_email='iphs2@outlook.com',
     license='GNU General Public License v3 (GPLv3)',
     url='https://github.com/loseys/Goblyn',
-    #download_url='https://github.com/s0md3v/Arjun/archive/v%s.zip' % __import__('arjun').__version__,
-    #zip_safe=False,
     packages=find_packages(),
     install_requires=[
         'requests',
