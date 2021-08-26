@@ -11,7 +11,7 @@ with io.open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='goblyn',
     version=__import__('goblyn').__version__,
-    description='...',
+    description='Goblyn is a Python tool focused to enumeration and capture of website files metadata.',
     author='Loseys',
     author_email='iphs2@outlook.com',
     license='GNU General Public License v3 (GPLv3)',
@@ -21,13 +21,13 @@ setup(
         'requests'
     ],
     classifiers=[
-        'Development Status :: 5 - Production/Stable',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
         'Operating System :: OS Independent',
         'Topic :: Security',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
-        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.9',
     ],
     entry_points={
         'console_scripts': [
