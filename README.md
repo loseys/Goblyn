@@ -30,7 +30,7 @@ Goblyn is a tool focused to enumeration and capture of website files metadata.
 
 ### How it works?
 
-Goblyn will search per active directories in the website and so enumerate the files, if it find some file it will get the metadata of file.
+Goblyn will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file.
 
 ### Why Goblyn?
 
