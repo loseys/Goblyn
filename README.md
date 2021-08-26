@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/loseys/Goblyn"><img src="https://user-images.githubusercontent.com/61597947/130886015-52e6f5a6-bf78-42bd-bda7-5f862faf2de8.png" width=160 height=150 lt="Goblyn"></a>
+  <a href="https://github.com/loseys/Goblyn"><img src="https://user-images.githubusercontent.com/61597947/130886015-52e6f5a6-bf78-42bd-bda7-5f862faf2de8.png" width=150 height=140 lt="Goblyn"></a>
   <br>
   Goblyn
   <br>
