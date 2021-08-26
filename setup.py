@@ -18,8 +18,7 @@ setup(
     url='https://github.com/loseys/Goblyn',
     packages=find_packages(),
     install_requires=[
-        'requests',
-        'beautifulsoup4'
+        'requests'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
