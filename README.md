@@ -44,12 +44,19 @@ Goblyn will search for active directories in the website and so enumerate the fi
 
 1. Download this repository and run:
 ```
-python3 setup.py install
+sudo python3 setup.py install
 ```
 
 2. Download the `exiftool`:
+```
+sudo apt install exiftool
+```
 
 3. Have fun :)
+
+```
+sudo goblyn [OPTIONS]
+```
 
 ### How to use Goblyn?
 
@@ -58,7 +65,7 @@ You can use the `-help` argument to explore help banner of Goblyn.
 Example of use:
 
 ```
-goblyn -t http://fma.if.usp.br/~amsilva/Livros/ -wl C:\Users\Lsy\Desktop\common.txt --file-types=pdf,docx,png
+sudo goblyn -t http://fma.if.usp.br/~amsilva/Livros/ -wl C:\Users\Lsy\Desktop\common.txt --file-types=pdf,docx,png
 ```
 ### Call for Contributions⚠️
 
