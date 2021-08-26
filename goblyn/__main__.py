@@ -35,7 +35,7 @@ def main():
                 ftypes = sys.argv[sys.argv.index(item)]
                 ftypes = ftypes.replace('--file-types=', '')
 
-                if ftypes != 'ALL':
+                if str(ftypes).lower() != 'all':
                     ftypes = ftypes.split(',')
 
             if item == '-o' or item == '--output':
