@@ -69,4 +69,4 @@ sudo goblyn -t http://fma.if.usp.br/~amsilva/Livros/ -wl C:\Users\Lsy\Desktop\co
 ```
 ### Call for Contributions⚠️
 
-If you finds this tool useful and wants to add some functionality, improve the code performance or improve something in the Goblyn, the best way to get it added is to submit a pull request.
+If you finds this tool useful and wants to add some functionality, improve the code performance or improve something in the Goblyn, the best way to get it added is to submit a pull request. 
