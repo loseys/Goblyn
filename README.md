@@ -67,7 +67,7 @@ Example of use:
 ```
 sudo goblyn -t http://fma.if.usp.br/~amsilva/Livros/ -wl C:\Users\Lsy\Desktop\common.txt --file-types=pdf,docx,png
 ```
-> Important: You need to use full path of wordlist file.
+> Important: You need to use full path of a file. So, if you want to use the "-o" or "-wl" command you'll need to set the full path of file.
 ### Call for Contributions⚠️
 
 If you finds this tool useful and wants to add some functionality, improve the code performance or improve something in the Goblyn, the best way to get it added is to submit a pull request. 
